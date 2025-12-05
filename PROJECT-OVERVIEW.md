@@ -83,25 +83,4 @@ Proje Antigravity ile geliştirilecek, UI tasarımları Stitch üzerinden oluşt
 
 ---
 
-## 5. Önerilen Yapı
 
-```txt
-/src
-  /pages
-    WelcomeScreen.tsx
-    CameraAllowScreen.tsx
-    IntroCalibrationScreen.tsx
-    MainScreen.tsx
-  /components
-    common/
-    camera/
-    status/
-    gallery/
-  /services
-    cameraService.ts
-    poseService.ts
-    gestureService.ts
-    screenshotService.ts
-  /store
-    uiState.ts
-    screenshots.ts
